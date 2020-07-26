@@ -39,8 +39,9 @@ www.google.com
 
 ~~strike~~
 
-- I crearted this list to see if i can detect the change  
-- I think this will appear in a different color  
+
+
+- I'm adding this list and deleting two lists above  
 
 
 **not only that, but i can make many changes**
